@@ -1,4 +1,4 @@
-# TN-S41B · Subcontractor Package · Drywall
+# Subcontractor Package · Drywall
 
 ---
 
