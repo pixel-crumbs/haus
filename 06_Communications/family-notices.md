@@ -5,8 +5,9 @@
 Recommended Message:
 
 🚧 TN-S41B Property Update (IMPORTANT)
-Hey fam — the home at [address] is officially entering the next phase.
-We’re beginning a full renovation and demo begins Monday, July 14th.
+--
+Hey — the home at [address] is officially entering the next phase.
+We’re beginning a full renovation and demo begins the week of August 4th.
 Please take this as your final 2-week notice to retrieve any items from the house, garage, or attic that you want to keep.
 🗓️ Pickup Deadline: Sunday, July 13th by 6PM
 After that, we’ll be clearing out the property entirely — anything left behind will be discarded.
