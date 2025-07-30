@@ -1,8 +1,7 @@
-# TN-S41B Humanficial Project Repository
+# TN-S41B Project Repository
 
-> **Humanficial Design™ Implementation** | Powered by: The Real Estate Rehab Investing Bible + FlipperForce + AI
 > 
-> This repository contains everything needed to **remotely manage**, **automate**, and **scale** the TN-S41B full gut renovation project — designed for 99/1 execution (99% automated, 1% strategic oversight).
+> This repository contains everything needed to **remotely manage**, **automate**, and **scale** the TN-S41B full gut renovation project.
 
 ---
 
@@ -66,7 +65,7 @@ This repository delivers the 99% — systems that think, schedule, protect, and 
 - Start at `01_Project_Overview/` to get grounded.
 - Use `02_Scope_of_Work/` and `03_Scheduling/` to scope, track, and monitor.
 - Distribute `04_Contractor_Pack/` to GCs and subs to begin bidding.
-- Plug in automation logic from `07_Automations/` if integrating with AI ops stack (e.g., Zapier, Make, or custom LLM).
+- Plug in automation logic from `07_Automations/` if integrating with HIOS ops stack.
 - Everything is designed to operate **with or without you**. That’s the point.
 
 ---
