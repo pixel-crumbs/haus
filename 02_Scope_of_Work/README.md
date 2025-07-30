@@ -2,7 +2,7 @@
 
 ---
 
-## 1. 🧭 Project Summary
+## 1. Project Summary
 
 **Project Title**: TN-S41B  
 **Type**: Full Gut Rehab  
@@ -10,7 +10,7 @@
 
 ---
 
-## 2. 📌 Global Assumptions
+## 2. Global Assumptions
 
 - **Full Gut**: Property will be stripped to framing throughout.
 - **Longevity Target**: Rehab is designed to last 30+ years for hold strategy.
@@ -27,7 +27,7 @@
 
 ---
 
-## 3. 🛠 System-Wide Trade Overview
+## 3. System-Wide Trade Overview
 
 | Trade       | Scope Summary                                                             |
 |-------------|---------------------------------------------------------------------------|
@@ -45,7 +45,7 @@
 
 ---
 
-## 4. 📐 Level Summaries
+## 4. Level Summaries
 
 ### Level 1
 - Jr. Suite with En Suite Bathroom
@@ -65,16 +65,111 @@
 
 ---
 
-## 5. 💸 Reimbursements + Financial Notes
+## 5. Construction Execution Protocol
 
-- **Roof**: Already completed.  
-  ➤ Add $15,000 reimbursement to project summary sheet or final draw schedule.
+This protocol defines the global construction operating standards that apply across all trades and scopes for TN-S41B.
+
+---
+
+##  Site Operating Hours
+- Monday–Saturday: 7:30 AM – 5:30 PM
+- Sunday: No work without written permission
+
+##  Waste Management
+- Debris must be staged in the designated rear bin zone.
+- No loose materials left inside units overnight.
+
+##  Material Drop Zones
+- All deliveries to be staged on driveway pad, 10ft from front entrance.
+- Label all owner-supplied materials with blue tape and permanent marker:
+  `TN-S41B | Room Name | Sub Name | Date Received`
+
+##  Noise Protocols
+- Work on loud equipment (e.g., demo hammers, saws) restricted to 9AM–3PM.
+
+##  Weather Delay Protocol
+- If rain or weather prevents progress, contractor must document via site photo texted to PM group chat by 9AM.
+
+##  Clean Site Requirement
+- Broom-clean at end of every workday.
+- No food waste or lunch debris allowed on site.
+
+##  Site Photo Check-in
+- Each trade lead must submit 3 progress photos to PM folder every Friday before 6PM:
+  - Angle 1: Wide
+  - Angle 2: Detail Work
+  - Angle 3: Any concern or deviation
+ 
+---
+
+## 6. Finish Standards Reference
+
+Minimum finish quality standards for all trades.
+
+---
+
+##  Paint
+- No overspray
+- Crisp edge taping on baseboards and casing
+- Minimum 2 coats with primer
+
+##  Drywall
+- Smooth finish, no tape lines visible
+- Corners sharp, not rounded unless intentional
+
+##  Electrical
+- All switchplates level and centered
+- No exposed gaps around outlet boxes
+
+##  Caulking
+- All caulk lines straight and matched to adjacent surface
+- No over-caulking or smearing
+
+##  Windows
+- Even reveal around all trim
+- Operable without resistance
+
+##  Doors
+- Close flush with frame, no bounce-back
+- Even spacing top/bottom/strike side
+
+---
+
+## 7. Known Risk Zones
+
+These are areas of high coordination risk or physical constraint that require explicit pre-planning and trade coordination.
+
+---
+
+##  1. HVAC Vertical Duct Chase (Master Suite Closet)
+- Existing HVAC stack runs through the closet space reclaimed by Bedroom 3.
+- Must be rerouted **prior to any framing**.
+
+##  2. Microcement Showers
+- Strict waterproofing and cure times required.
+- No unapproved tiling substrates.
+
+##  3. EV + Generator Panel Layout
+- Ensure spacing and exterior weatherproofing.
+- Grounding inspections must pass city code.
+
+##  4. Wall Opening at Living Room
+- Both kitchen/living room walls are non-load-bearing but contain electrical runs.
+- Electrical rough-in must happen **after** openings are created and confirmed.
+
+##  5. Hidden Staircase Door
+- Conceal door between Level 1 & Level 2 post-inspection.
+- Ensure fire-blocking and insulation remain compliant.
+
+---
+
+## 7. Financial Notes
 
 - **Labor Only**: All materials, fixtures, and appliances will be purchased and stored/managed by owner.
 
 ---
 
-## 6. 📁 File References
+## 8. 📁 File References
 
 | File Name                     | Description                          |
 |------------------------------|--------------------------------------|
@@ -83,7 +178,7 @@
 | `TN-S41B_MasterSystemScope.md`| This file (overview + coordination)  |
 
 ---
-## 7. Floor Plans
+## 9. Floor Plans
 
 ## Level 2: Old + New
 <img width="1444" height="721" alt="image" src="https://github.com/user-attachments/assets/0b8498fd-f723-41bc-909b-b0904193e98b" />
