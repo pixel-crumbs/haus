@@ -111,7 +111,7 @@ Primary entry zone and circulation area for Level 1, including a **disguised sta
 - All labor is **labor-only**; materials are 100% owner-supplied.
 - No substitutions or material swaps allowed without explicit approval.
 - Room-by-room inspections must be completed before progressing to next milestone.
-- Subcontractors must align with Humanficial scheduling, safety, and cleanliness expectations.
+- Subcontractors must align with scheduling, safety, and cleanliness expectations.
 - Daily clean-up is **mandatory** for all trades.
 
 ---
