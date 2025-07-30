@@ -83,3 +83,6 @@
 | `TN-S41B_MasterSystemScope.md`| This file (overview + coordination)  |
 
 ---
+
+<img width="1798" height="735" alt="image" src="https://github.com/user-attachments/assets/61976894-d6ac-4ff3-90bf-d66a40e30564" />
+
