@@ -83,9 +83,9 @@
 | `TN-S41B_MasterSystemScope.md`| This file (overview + coordination)  |
 
 ---
-
+Level 2: Old
 <img width="1444" height="721" alt="image" src="https://github.com/user-attachments/assets/0b8498fd-f723-41bc-909b-b0904193e98b" />
 
-
+Level 2: New
 <img width="1798" height="735" alt="image" src="https://github.com/user-attachments/assets/61976894-d6ac-4ff3-90bf-d66a40e30564" />
 
